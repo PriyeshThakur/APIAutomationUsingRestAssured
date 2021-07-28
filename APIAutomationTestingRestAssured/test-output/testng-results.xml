@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3712" started-at="2021-07-27T13:42:30Z" finished-at="2021-07-27T13:42:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3712" started-at="2021-07-27T13:42:30Z" finished-at="2021-07-27T13:42:33Z">
+      <class name="com.APIAutomationTests.testApi">
+        <test-method status="PASS" signature="getResponse()[pri:0, instance:com.APIAutomationTests.testApi@28d25987]" name="getResponse" duration-ms="2272" started-at="2021-07-27T19:12:30Z" finished-at="2021-07-27T19:12:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResponse -->
+        <test-method status="PASS" signature="postResponsePojo()[pri:0, instance:com.APIAutomationTests.testApi@28d25987]" name="postResponsePojo" duration-ms="922" started-at="2021-07-27T19:12:32Z" finished-at="2021-07-27T19:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postResponsePojo -->
+        <test-method status="PASS" signature="postResponseTextFile()[pri:0, instance:com.APIAutomationTests.testApi@28d25987]" name="postResponseTextFile" duration-ms="485" started-at="2021-07-27T19:12:33Z" finished-at="2021-07-27T19:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postResponseTextFile -->
+      </class> <!-- com.APIAutomationTests.testApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
